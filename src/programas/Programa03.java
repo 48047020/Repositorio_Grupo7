@@ -25,4 +25,4 @@ public class Programa03 {
     System.out.println("Comision: S/" + c);
     System.out.println("Sueldo Total: S/" + st);            
     }     
-} 
+} // Versión 1: { Proyecto Final - Grupo 7}
